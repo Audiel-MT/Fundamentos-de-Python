@@ -1,0 +1,8 @@
+# Módulos.
+"""
+Organiza tu proyecto en Python con módulos y
+gana claridad desde el primer día. Dividir en múltiples
+archivos, usar import y from, y centralizar operaciones
+matemáticas como sumar, restar, multiplicar y dividir te
+permite escribir código más legible y fácil de mantener.
+"""
