@@ -1,0 +1,1 @@
+Este texto esta sobrescrito en el archivo2.txt, el texto original es (Este es el archivo2, de esta manera podemos escribir)
